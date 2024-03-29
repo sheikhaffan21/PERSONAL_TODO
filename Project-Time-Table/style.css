@@ -1,0 +1,31 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body {
+    background: #f8f834;
+}
+#div{
+    margin-top: 25vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#day-date{
+    background-color: rgb(140, 179, 233);
+    border: 5px solid  rgb(180, 178, 178);
+    
+}
+#table{
+    height: 50vh;
+    width: 50vh;
+    text-align: center;
+    background-color: rgb(169, 141, 195);
+    font-size: larger;
+    border: 5px solid rgb(248, 245, 245);
+}
+#check{
+    height: 5vh;
+    width: 5vh;
+}
+
